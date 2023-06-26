@@ -9,5 +9,15 @@
 </head>
 <body>
   <angular-widget/>
+  <script>
+      function injectConfigIntoMfe() {
+         fetch('./mfe-config.json').then(async response => {
+           const config = await response.text()
+           const mfeEl = document.getElementsByTagName('angular-widget')[0]
+           mfeEl.setAttribute('config', config)
+         })
+      }
+      injectConfigIntoMfe()
+   </script>    
 </body>
 </html>

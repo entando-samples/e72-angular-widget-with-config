@@ -12,7 +12,22 @@
                 "en": "angular-widget",
                 "it": "angular-widget"
             },
-            "buildFolder": "dist/angular-widget"
+            "buildFolder": "dist/angular-widget",
+            "configMfe": "simple-mfe-config",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "The name for Hello World"
+                }
+            ]
+        },
+        {
+            "name": "simple-mfe-config",
+            "customElement": "simple-mfe-config",
+            "stack": "react",
+            "type": "widget-config",
+            "group": "free",
+            "publicFolder": "public"
         }
     ],
     "svc": [],
