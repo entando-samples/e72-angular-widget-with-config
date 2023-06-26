@@ -9,8 +9,8 @@
             "group": "free",
             "publicFolder": "public",
             "titles": {
-                "en": "angular-widget",
-                "it": "angular-widget"
+                "en": "angular-widget-with-config",
+                "it": "angular-widget-with-config"
             },
             "buildFolder": "dist/angular-widget",
             "configMfe": "simple-mfe-config",
@@ -32,7 +32,7 @@
     ],
     "svc": [],
     "name": "e72-angular-widget-with-config",
-    "version": "0.0.1",
-    "description": "e72-angular-widget description",
+    "version": "0.0.2",
+    "description": "e72-angular-widget-with-config description",
     "type": "bundle"
 }
