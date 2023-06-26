@@ -1,0 +1,23 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "angular-widget",
+            "customElement": "angular-widget",
+            "stack": "angular",
+            "type": "widget",
+            "group": "free",
+            "publicFolder": "public",
+            "titles": {
+                "en": "angular-widget",
+                "it": "angular-widget"
+            },
+            "buildFolder": "dist/angular-widget"
+        }
+    ],
+    "svc": [],
+    "name": "e72-angular-widget-with-config",
+    "version": "0.0.1",
+    "description": "e72-angular-widget description",
+    "type": "bundle"
+}
