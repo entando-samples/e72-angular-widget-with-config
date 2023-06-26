@@ -32,7 +32,7 @@
     ],
     "svc": [],
     "name": "e72-angular-widget-with-config",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "e72-angular-widget-with-config description",
     "type": "bundle"
 }
