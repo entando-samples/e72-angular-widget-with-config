@@ -1,5 +1,5 @@
-# Bundle for a simple Angular MFE
-The project contains a simple Angular MFE for Entando 7.2
+# Bundle for a simple Angular MFE with a React config widget
+The project contains a simple Angular MFE with config for Entando 7.2
 
 ## Prerequisites
 1. Docker account
